@@ -1,5 +1,5 @@
 # <p align="center"> Fedor Ivannikov's repositorium
-<p align="center"><img src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nelibek.com.ng%2Fwp-content%2Fuploads%2F2020%2F03%2Fdataanalysisistockrobuart.jpg&imgrefurl=https%3A%2F%2Fwww.nelibek.com.ng%2Fdata-analysis%2F&tbnid=ZslvJqi6LsWOkM&vet=12ahUKEwjSwP3uh677AhWEVqQEHcx2AjcQMygZegUIARCTAg..i&docid=FwXcTIgNITZjcM&w=1200&h=1034&q=data%20analysis&ved=2ahUKEwjSwP3uh677AhWEVqQEHcx2AjcQMygZegUIARCTAg'></p>
+<p align="center"><img src='https://miro.medium.com/max/1100/0*s7jQ4PL_UqiQ58yo.webp'></p>
 
 All projects were done on a notebook, mostly **Jupiter notebook** and **Google Collab**, datasets not included.
 Only the finished version is shown.
