@@ -2,7 +2,7 @@
 <p align="center"><img src='https://miro.medium.com/max/1100/0*s7jQ4PL_UqiQ58yo.webp'></p>
 
 All projects were done on a notebook, mostly **Jupiter notebook** and **Google Collab**, datasets not included.
-Only the finished version is shown. vStatus of all projects: finished.
+Only the finished version is shown. **Status of all projects**: `finished`.
 
 | **Project** | **Type of study** | **Note** |
 | -------------------- | :--------------------- |:---------------------------|
@@ -16,3 +16,4 @@ Only the finished version is shown. vStatus of all projects: finished.
 | [08. The research of advertisements for the sale of apartments in S.-Peterburg and Leningrad region](https://github.com/Ivannikovf/Ivannikovf_repositorium/tree/mine_repositarium/development_project)|Exploratory data analysis. Search for patterns and development of optimization methods|Pandas, numpy, matplotlib.pyplot|
 | [09. The Difference in monthly income by gender in the company](https://github.com/Ivannikovf/Ivannikovf_repositorium/tree/mine_repositarium/difirence_in_income)|Exploratory data analysis. Normalize data, find paterns and make a dashboard with Power BI|Power BI, dashboard, normalize data|
 | [10. The book-reading service research](https://github.com/Ivannikovf/Ivannikovf_repositorium/tree/mine_repositarium/sql_book_service_research)|Exploratory data analysis from SQL by new database of book-reading service|SQL, EDA, pandas, sqlalchemy|
+| [11. The A/B test analysis](https://github.com/Ivannikovf/Ivannikovf_repositorium/tree/mine_repositarium/a_b_test_analysis)|Research on the compliance of the a / b test with the terms of reference and the correctness of the conduct|A/ B - test, Pandas, seaborn, numpy, scipy.stats, datetime, Plotly, event funnel|
