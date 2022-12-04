@@ -2,7 +2,7 @@
 <p align="center"><img src='https://miro.medium.com/max/1100/0*s7jQ4PL_UqiQ58yo.webp'></p>
 
 All projects were done on a notebook, mostly **Jupiter notebook** and **Google Collab**, datasets not included.
-Only the finished version is shown.
+Only the finished version is shown. vStatus of all projects: finished.
 
 | **Project** | **Type of study** | **Note** |
 | -------------------- | :--------------------- |:---------------------------|
