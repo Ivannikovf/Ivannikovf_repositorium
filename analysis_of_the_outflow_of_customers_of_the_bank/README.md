@@ -18,3 +18,6 @@ The purpose of the study: To identify the most vulnerable customer segments that
 
 Used libraries: pandas, seaborn, matplotlib.pyplot, numpy, scipy, math, datetime, phik
 
+Dashboard 1: `The salary of bank costumers` < 'https://public.tableau.com/app/profile/fedor.ivannikov/viz/Bank_metanprom/Bank_by_salary?publish=yes'>
+
+Dashboard 2: `Destribution of costumers by number of bank products with geograpy filter` <'https://public.tableau.com/app/profile/fedor.ivannikov/viz/Bank_metanprom_2/By_products?publish=yes'>>
